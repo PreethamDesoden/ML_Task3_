@@ -108,12 +108,13 @@ Test Accuracy: ~71%
 
 To save the trained model:
 
-model.save("cnn_model.keras")
+model.save("cifar10_cnn_model.keras")
 
 To load the model:
 
-from tensorflow import keras
-model = keras.models.load_model("cnn_model.keras")
+from tensorflow.keras.models import load_model
+
+loaded_model = load_model("cifar10_cnn_model.keras")
 
 ## Future Improvements
 
