@@ -64,33 +64,33 @@ Output Layer with 10 neurons (one for each class) using Softmax activation.
 
 ## Implementation Steps
 
-Load and Preprocess Data
+- Load and Preprocess Data
 
-Normalize pixel values to range [0,1].
+- Normalize pixel values to range [0,1].
 
-Split into training and test sets.
+- Split into training and test sets.
 
-Build CNN Model
+- Build CNN Model
 
-Stack convolutional, pooling, and dense layers.
+- Stack convolutional, pooling, and dense layers.
 
-Compile and Train Model
+- Compile and Train Model
 
-Use Adam optimizer and Sparse Categorical Crossentropy loss.
+- Use Adam optimizer and Sparse Categorical Crossentropy loss.
 
-Train for 25 epochs.
+- Train for 25 epochs.
 
-Evaluate Model Performance
+- Evaluate Model Performance
 
-Check accuracy on test dataset.
+- Check accuracy on test dataset.
 
-Make Predictions
+- Make Predictions
 
-Test model with random images from the dataset.
+- Test model with random images from the dataset.
 
-Save the Model
+- Save the Model
 
-Save the trained model for later use.
+- Save the trained model for later use.
 
 ## Sample Prediction Output
 
