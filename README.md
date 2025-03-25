@@ -1,5 +1,17 @@
 # CNN for Image Classification (TensorFlow/Keras)
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : PREETHAM B
+
+*INTERN ID* : CT12WM72
+
+*DOMAIN* : MACHINE LEARNING 
+
+*DURATION* : 12 WEEKS
+
+*MENTOR* : NEELA SANTOSH 
+
 ## Project Overview
 
 This project implements a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. The model is built with TensorFlow/Keras and trained to classify images into 10 different categories. The final trained model achieves an accuracy of approximately 71% on the test dataset.
@@ -116,3 +128,7 @@ Tune hyperparameters like batch size, learning rate, and dropout.
 ## Conclusion
 
 This project successfully implements a CNN-based image classifier using TensorFlow/Keras. The trained model achieves decent accuracy (71%) and demonstrates the power of deep learning for image recognition tasks.
+
+## Output
+
+
