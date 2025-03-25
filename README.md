@@ -132,4 +132,16 @@ This project successfully implements a CNN-based image classifier using TensorFl
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/3ccd1210-fb99-4e8a-9852-e02c65c9c101)
+
+![Image](https://github.com/user-attachments/assets/0e43a50c-fa20-4750-ae49-769bf01b6d04)
+
+![Image](https://github.com/user-attachments/assets/30f3d938-ac46-4696-b6b1-063938be3a45)
+
+![Image](https://github.com/user-attachments/assets/1710fec8-4d62-4176-aca6-9f7796725e89)
+
+![Image](https://github.com/user-attachments/assets/fe208bad-60e7-4006-a875-477df4501e97)
+
+![Image](https://github.com/user-attachments/assets/284ec1b7-9543-42f5-a63e-85fa14772da0)
+
 
